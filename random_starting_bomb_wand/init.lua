@@ -11,7 +11,7 @@ function OnModPostInit()
 end
 
 function OnPlayerSpawned( player_entity ) -- this 
-	GamePrint( "Mods says: Replacing starter potion" )
+	GamePrint( "Mods says: Replacing starter bomb wand" )
 end
 
 
