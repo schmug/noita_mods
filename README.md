@@ -7,4 +7,8 @@
 
 ## Random_starting_potion
 
-You will end up with any filled flask.
+You will end up with any filled flask instead of the default water potion.
+
+## Random_starting_bomb_wand
+
+Starts with the games random bomb wand instead of the default.
