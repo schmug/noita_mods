@@ -20,3 +20,7 @@ Starts with the games random bomb wand instead of the default.
 
 Replaces the minecart at the beginning with one perk.
 (once I figure it out it won't replace the minecart)
+
+## Larger_starting_water_spout
+
+The drips at the beginning of the level now create real water and are produces faster. Can flood the level.
