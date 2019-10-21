@@ -12,3 +12,8 @@ You will end up with any filled flask instead of the default water potion.
 ## Random_starting_bomb_wand
 
 Starts with the games random bomb wand instead of the default.
+
+## Random_starter_perks
+
+Replaces the minecart at the beginning with a 3 perk choice.
+(once I figure it out it won't replace the minecart)
