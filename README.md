@@ -5,15 +5,18 @@
 3. Start the game, pause, select the mod(s).
 4. Start a new game
 
+
 ## Random_starting_potion
 
 You will end up with any filled flask instead of the default water potion.
+
 
 ## Random_starting_bomb_wand
 
 Starts with the games random bomb wand instead of the default.
 
-## Random_starter_perks
 
-Replaces the minecart at the beginning with a 3 perk choice.
+## Random_starter_perk
+
+Replaces the minecart at the beginning with one perk.
 (once I figure it out it won't replace the minecart)
