@@ -11,7 +11,7 @@ function OnModPostInit()
 end
 
 function OnPlayerSpawned( player_entity ) -- this 
-	GamePrint( "Mod says: Spawning random starter perk" )
+	GamePrint( "Mod says: Spawning random starter perks" )
 end
 
 
