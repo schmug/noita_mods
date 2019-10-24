@@ -1,0 +1,1 @@
+the bomb wand is replaced with a random one
