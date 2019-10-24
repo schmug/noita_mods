@@ -24,3 +24,7 @@ Replaces the minecart at the beginning with one perk.
 ## Large_starting_drip
 
 The drips at the beginning of the level now create real water and are produces faster. Can flood the level.
+
+## Throwable_start_only
+
+No wands to start, only four throwable (recoverable) rocks.
