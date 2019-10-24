@@ -1,0 +1,1 @@
+no wands, start with 4 recoverable throwable rocks
